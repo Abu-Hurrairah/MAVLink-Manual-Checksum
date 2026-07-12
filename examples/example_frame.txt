@@ -1,0 +1,6 @@
+Example MAVLink v2 frame:
+FD130000C301014A00002E029A4184A0F641F6DE8E4549A1BCBF2A01329B87
+
+CRC_EXTRA for Message ID 74 (VFR_HUD): 20
+Expected calculated checksum: 0x879B
+Expected transmitted bytes: 9B 87
